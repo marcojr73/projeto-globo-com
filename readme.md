@@ -1,6 +1,5 @@
 
 # Globo .com
-Aos 5 anos de idade Magnus Carlsen memorizou a superfície, população e as capitais de todos os países, anos mais tarde esse jovem viria a se tornar para muitos o maior jogador de xadrez de todos os tempos
 
 <p align="center">
    <img width=350 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Globo.com_logo_%28stacked%29.svg/512px-Globo.com_logo_%28stacked%29.svg.png"/>
