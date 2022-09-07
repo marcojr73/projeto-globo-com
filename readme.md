@@ -13,6 +13,12 @@
 
 ***
 
+## Demonstração
+
+<div align="center">
+   <img width=350 src="./projeto-globocom-imagens/app.png"/>
+</div>
+
 ## Como usar
 
 Instale meu projeto e abra-o no navegador
